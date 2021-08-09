@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>resume on Ashok Anand B</title>
+    <link>https://ashok-ab4.github.io/portfolio/tags/resume/</link>
+    <description>Recent content in resume on Ashok Anand B</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://ashok-ab4.github.io/portfolio/tags/resume/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://ashok-ab4.github.io/portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashok-ab4.github.io/portfolio/about/</guid>
+      <description>In the past couple of years I have had extensive experience using technologies like R, Python, SQL, Spark and gained a lot of hands on experience in the domains of data wrangling, data manipulation, modeling, data analytics as well as data visualization using tools such as Tableau and PowerBI.
+I think I have the skillsets and the fortitude to succeed in this domain. I have a methodical and rational approach to solving problems, I work promptly and diligently so I can stick to deadlines and I pay very close attention to the small details all of which lend well to being a competent analyst.</description>
+    </item>
+    
+  </channel>
+</rss>

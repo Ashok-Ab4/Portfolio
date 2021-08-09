@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on Ashok Anand B</title>
+    <link>https://ashok-ab4.github.io/portfolio/post/</link>
+    <description>Recent content in Works on Ashok Anand B</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://ashok-ab4.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Using Machine Learning to predict baseball outcomes</title>
+      <link>https://ashok-ab4.github.io/portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashok-ab4.github.io/portfolio/post/project-1/</guid>
+      <description>Used SQL to perform extensive feature engineering for the baseball data pulled from the MLB database.
+  Compiled features fed into python using SparkSQL. Several plots created to show relationships between response and created predictors, as well as brute force variable combinations and their effect on the response.
+  Data fed into a pipeline which preprocessed the data and fed it into a classifier.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: House Price prediction for AirBnB</title>
+      <link>https://ashok-ab4.github.io/portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashok-ab4.github.io/portfolio/post/project-2/</guid>
+      <description>The objective of this project was to fit multiple regression models on the available data to achieve a fit that can give good predictions on the listing price. This was a public dataset obtained from Kaggle for the purposes of this project. Naturally with a dataset of such size a good amount of cleaning went into the data. The dataset contained a large amount of NULL values, which were then curated and replaced with appropriate values to make the dataset compatible for analysis.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Wine Classification</title>
+      <link>https://ashok-ab4.github.io/portfolio/post/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashok-ab4.github.io/portfolio/post/project-3/</guid>
+      <description>Simple text classification project tools used: Dask, MLFlow, Sklearn, Spacy, Lime   Data first tokenized with spacy. Then used to train different baseline classification models. Best performer then subjected to hyperparameter tuning.
+  Once model was finalized, visualizations were made to analyse the coefficients the model used to make the classifications as well as confusion matrices to see how the model performed.
+  A couple of methods were tested to improve performance - changing the labelling scheme and restricting the test set values using decision function calculations.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Customer churn rate prediction</title>
+      <link>https://ashok-ab4.github.io/portfolio/post/project-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashok-ab4.github.io/portfolio/post/project-4/</guid>
+      <description>Point of the project is to predict if a customer will Churn (Leave the service) In the first notebook &amp;lsquo;Data Cleaning&amp;rsquo; we go through the dataset and perform several data cleanup steps - null handling, correlation of features, dummy encoding categorical variables and then save the resulting dataset as a csv file.
+In the second notebook &amp;lsquo;Churn Rate Prediction - Model Building&amp;rsquo; we first load in the cleaned dataset. Then to handle class imbalance we up sample the minority class in the predictor variable using SMOTE (Synthetic Minority Oversampling Technique).</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Milk Production Rates - ARIMA models</title>
+      <link>https://ashok-ab4.github.io/portfolio/post/project-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashok-ab4.github.io/portfolio/post/project-5/</guid>
+      <description>Data gathered from a public forum. First the data is subjected to some minor cleaning. Plots are then generated, first a basic plot and then some for the rolling means. Decomposition plots generated for trends and seasonality. Data is then tested for stationarity followed by differencing calculations and visualizations, to observe changes in time periods and seasonal differences. Autocorrelation plots are then generated plotting the time series against itself lagged by 1 time unit.</description>
+    </item>
+    
+    <item>
+      <title>Project 6: Stock Market Predictor</title>
+      <link>https://ashok-ab4.github.io/portfolio/post/project-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashok-ab4.github.io/portfolio/post/project-6/</guid>
+      <description>      Data Read in from Yahoo for 3 car manufacturing company stocks - Tesla, Ford and GM.
+  Data subjected to minor cleaning and stock prices are then visualized
+  Basic financial calculations then made to calculate the returns and cumulative returns of the 3 companies and those findings are then visualized using different kinds of plots.
+Link to github repository   </description>
+    </item>
+    
+    <item>
+      <title>Project 7: Educational Statistics in California</title>
+      <link>https://ashok-ab4.github.io/portfolio/post/project-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashok-ab4.github.io/portfolio/post/project-7/</guid>
+      <description>Wrangling and aggregation of 4 different data sets each of which had individual csv files for year wise data
+  Different visualizations for ethnicity based differences in enrollment and dropout rates for kids in schools and colleges through different districts in California.
+  Several Visualizations made and dashboards created to see the disparities and patterns
+  Trained a linear regression model using dropout rate data and predicted dropout rates for 2018 with a good efficiency of 82%</description>
+    </item>
+    
+    <item>
+      <title>Project 8: Job Skill Recommendation Engine</title>
+      <link>https://ashok-ab4.github.io/portfolio/post/project-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashok-ab4.github.io/portfolio/post/project-8/</guid>
+      <description>Job Based Recommendation Engine (Web Scraping, CNN, Tableau, Non personalized recommender):
+  Built a scraper (Beautiful soup) to get Job based data from online job portals. Collected a total of 200k rows.
+  Used the data to train a CNN on python to extract skills based on job summaries. 80% accuracy achieved.
+  Visualized data on tableau dashboards to display trends in job market.
+  Fed collected data into a non-personalized recommender algorithm to rank skills based on job titles.</description>
+    </item>
+    
+    <item>
+      <title>Project 9: Rock Paper Scissors image classifier</title>
+      <link>https://ashok-ab4.github.io/portfolio/post/project-9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashok-ab4.github.io/portfolio/post/project-9/</guid>
+      <description>Rock, Paper, Scissors image classifier (Keras, Computer Vision, CNN, Tensorflow, Deep learning):
+  Pictures loaded into the directory and split into training, validation and test sets with composite labels.
+  Data augmentation and pre-processing done using keras ImageDataGenerator and call-backs created to monitor the model.
+  CNN sequential model generated using 4 Conv2D layers and 2 Dense layers to predict output.
+  Model compiled and tested with test data.</description>
+    </item>
+    
+  </channel>
+</rss>

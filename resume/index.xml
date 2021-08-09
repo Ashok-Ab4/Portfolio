@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resume on Ashok Anand B</title>
+    <link>https://ashok-ab4.github.io/portfolio/resume/</link>
+    <description>Recent content in Resume on Ashok Anand B</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://ashok-ab4.github.io/portfolio/resume/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Education</title>
+      <link>https://ashok-ab4.github.io/portfolio/resume/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashok-ab4.github.io/portfolio/resume/education/</guid>
+      <description>San Diego State Univeristy:
+Masters in Big Data Analytics (May 2021)
+Coursework: Machine learning Engineering, Big Data Analytics Platforms, Python Scripting, Business Analytics, Database Theory , Enterprise Data Management, Statistical Analysis, Statistical methods in Text Analysis. Dayananda Sagar College Of Engineering:
+Bachelors in Engineering (June 2019)
+Coursework: Probability and Statistics, Management Information Systems, Programming in Python, Data Structures and programming in C, CAD/CAM and Robotics. </description>
+    </item>
+    
+    <item>
+      <title>Professional experience</title>
+      <link>https://ashok-ab4.github.io/portfolio/resume/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashok-ab4.github.io/portfolio/resume/experience/</guid>
+      <description>Associate Data Analyst at EnEx Tech Solutions: (May 2018-July 2019)
+  Implemented analytical intelligence for clients, part of a team focused on growing businesses through customer churn rate predictions on python and targeted marketing.
+  Development and maintenance of ETL pipelines for client databases. Used logical database design and RDBMS concepts to improve database designs reducing data load delays exponentially.
+  Writing SQL queries using multiple joins and subqueries to migrate data from databases to SAS and Tableau for creating dashboards and projected financial reports, as well as statistical analyses.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://ashok-ab4.github.io/portfolio/resume/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashok-ab4.github.io/portfolio/resume/skills/</guid>
+      <description>Programming languages:  Python R C++ Java  Business Intelligence and visualization tools:  Tableau PowerBI Google datastudio Salesforce analytics Python - matplotlib, seaborn  Database techonlogies:  MSSQL server MYSQL Oracle PostgreSQL  Big Data Technologies:  Spark Hadoop MongoDB Hive  Machine Learning:  Pandas Numpy Scikit-Learn Deep Learning - Keras, Tensorflow, Pytorch Text analysis - Spacy, NLTK BeautifulSoup  Misc:  Git AWS Google Cloud platform Microsoft office - Excel (advanced lookup, pivot tables, etc) IDE - Jupyter, Pycharm, Google Colab, RStudio, Visual Studio  </description>
+    </item>
+    
+  </channel>
+</rss>
